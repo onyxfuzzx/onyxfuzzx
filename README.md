@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Zaid Shaikh!
-### *Aspiring ML/AI Engineer | Data Science Student @ RJ College*  
+### *Aspiring ML/AI Engineer | Data Science Student @ Ramniranjan Jhunjhunwala College*  
 
 ---
 
