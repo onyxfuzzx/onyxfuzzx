@@ -18,7 +18,7 @@ I'm a passionate and aspiring Machine Learning & AI Engineer currently pursuing 
 
 ### 🚀 Projects
 
-- **📈 [Customer Churn Prediction Model](https://github.com/onyxfuzzx/customer-churn-prediction)**  
+- **📈 [Customer Churn Prediction Model](https://github.com/onyxfuzzx/customer-chrun-prediction)**  
   Built a churn prediction model with 85% accuracy using Python; created an interactive Power BI dashboard for business insights.
 
 - **👥 [Employee Overview Dashboard](https://github.com/onyxfuzzx/Employees-Overview-Dashboard)**  
