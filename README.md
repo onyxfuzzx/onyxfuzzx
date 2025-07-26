@@ -59,11 +59,6 @@ I'm a passionate and aspiring Machine Learning & AI Engineer currently pursuing 
 
 ---
 
-### 📈 GitHub Stats
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=onyxfuzzx&show_icons=true&theme=radical)
-
----
-
 ### 🤝 Let's Connect!
 If you're working on exciting AI projects or data challenges, I’d love to collaborate.  
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/zaiddddd) or check out my projects on [GitHub](https://github.com/onyxfuzzx).
