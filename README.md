@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Zaid Shaikh
 
 💻 Data Science & Full-Stack Developer
+
 📍 Mumbai, India
+
 🚀 Building real-world apps with ML + Cloud + Modern Web
 
 ---
