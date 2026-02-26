@@ -1,64 +1,116 @@
-# 👋 Hi there, I'm Zaid Shaikh
+# 👋 Hi, I'm Zaid Shaikh
 
-🎓 **BSc in Data Science & Artificial Intelligence** | 📊 Data Analyst | 🤖 Machine Learning & AI Engineer  
-📍 Mumbai, India  
-📬 [zaid83560@gmail.com](mailto:zaid83560@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/zaiddddd) | 🧠 [GitHub](https://github.com/onyxfuzzx)
-
----
-
-### 🧠 About Me
-I'm a passionate and aspiring Machine Learning & AI Engineer currently pursuing my Bachelor's in Data Science and Artificial Intelligence from Ramniranjan Jhunjhunwala College. I enjoy solving complex problems, building intelligent systems, and leveraging data to make impactful decisions. My current focus areas include:
-- Predictive Modeling
-- AI/ML Research
-- Big Data Technologies
-- MLOps Optimization
+💻 Data Science & Full-Stack Developer
+📍 Mumbai, India
+🚀 Building real-world apps with ML + Cloud + Modern Web
 
 ---
 
-### 🚀 Projects
+## 🧠 About Me
 
-- **📈 [Customer Churn Prediction Model](https://github.com/onyxfuzzx/customer-chrun-prediction)**  
-  Built a churn prediction model with 85% accuracy using Python; created an interactive Power BI dashboard for business insights.
+I’m a Data Science and Full-Stack Developer with hands-on experience building production-ready applications across machine learning, cloud deployment, and scalable web stacks.
 
-- **👥 [Employee Overview Dashboard](https://github.com/onyxfuzzx/Employees-Overview-Dashboard)**  
-  A Power BI dashboard visualizing employee demographics, performance, engagement, and attrition.
+I enjoy taking ideas from raw data → intelligent models → deployed applications that people can actually use.
 
-- **🕹️ [GameStop Store Management Database](https://github.com/onyxfuzzx/GameStop-Database)**  
-  SQL-based retail inventory and sales tracking system with relational tables for improved operational efficiency.
-
-- **💻 [Computer Parts Sales Dashboard](https://github.com/onyxfuzzx/Computer-Parts-Sales-Dashboard)**  
-  Excel-powered dashboard analyzing sales performance, seller KPIs, and regional trends.
+* 🔬 Strong in Python, SQL, ML pipelines
+* ⚙️ Full-stack with .NET Web API + Angular
+* ☁️ Cloud deployments on Microsoft Azure & Cloudflare
+* 🛠️ Love building end-to-end systems
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## ⚡ Tech Stack
 
-| Languages | Libraries & Frameworks | Data Tools | Visualization |
-|----------|------------------------|------------|----------------|
-| Python | Scikit-learn, XGBoost, PyTorch | MySQL, Big Data | Power BI, Tableau, Excel |
-| NumPy, Pandas | Matplotlib, Seaborn | Data Mining | |
+### 🧩 Languages & Frameworks
+
+* Python, SQL, C#
+* .NET Web API, ASP.NET Core
+* Angular, JavaScript
+
+### 📊 Data Science
+
+* Pandas, NumPy, Scikit-learn
+* XGBoost, EDA, Feature Engineering
+* Model Evaluation
+
+### 📈 Visualization
+
+* Power BI, Tableau
+* Matplotlib, Seaborn
+
+### 🌐 Web & Backend
+
+* REST APIs, Flask
+* HTML, CSS, Tailwind
+
+### ☁️ Cloud & Tools
+
+* Microsoft Azure
+* Cloudflare Pages
+* Git, GitHub, Postman
+* Jupyter, VS Code, Visual Studio
 
 ---
 
-### 📚 Courses & Certifications
+## 🧪 Projects
 
-- **Master in Data Science & Analytics with AI**  
-  Advanced ML, predictive modeling, and data visualization projects using Python, SQL, Power BI, and Tableau.
+### 🔐 QR Watchman Attendance System
 
-- **Python for Data Science – Udemy**  
-  Covered NumPy, Pandas, Seaborn, Matplotlib, and Scikit-learn with hands-on projects.
+QR-based real-time staff attendance tracking system.
 
----
-
-### 📌 Interests
-- Machine Learning Research  
-- Scalable AI Infrastructure (MLOps)  
-- Solving Real-World Problems with Data  
-- Working with Big Data & Distributed Systems  
+* Secure REST APIs for logging and validation
+* Angular dashboard for monitoring and reporting
+* Deployed on Azure + Cloudflare
 
 ---
 
-### 🤝 Let's Connect!
-If you're working on exciting AI projects or data challenges, I’d love to collaborate.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/zaiddddd) or check out my projects on [GitHub](https://github.com/onyxfuzzx).
+### 🎟️ QR Event Ticket Manager
+
+Full-stack QR-based event ticketing platform.
+
+* Secure ticket generation & validation
+* Admin dashboard for event operations
+* Cloud-deployed scalable architecture
+
+---
+
+### 🤖 Customer Churn Prediction (ML + Web App)
+
+End-to-end machine learning churn prediction system.
+
+* Full ML pipeline with EDA + SMOTE + XGBoost
+* Flask web app for real-time predictions
+* Insight visualizations with Matplotlib & Seaborn
+
+---
+
+## 💼 Experience
+
+**Software Developer Intern — Prism Cybersoft Pvt. Ltd (Nov 2025 – Feb 2026)**
+
+* Built production full-stack apps using .NET Web API + Angular
+* Delivered QR-based enterprise solutions
+* Deployed apps on Azure and Cloudflare
+* Worked in real-world SDLC & agile workflows 
+
+---
+
+## 🎓 Education
+
+**B.Sc. Data Science & Artificial Intelligence**
+Ramniranjan Jhunjhunwala College
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: [zaid83560@gmail.com](mailto:zaid83560@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/zaiddddd
+* 🧑‍💻 GitHub: github.com/onyxfuzzx
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building projects that sit at the intersection of
+📊 Data + ⚙️ Systems + 🌐 Real-world impact
