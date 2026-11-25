@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Zaid Shaikh — Data, AI, and software</title>
+  <desc id="description">An animated neon workspace connecting data, AI agents, and applications. Zaid Shaikh is a Data Analyst Intern at Houzeo, based in Mumbai, India.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10152C"/><stop offset=".5" stop-color="#080D1C"/><stop offset="1" stop-color="#14102A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EF5D0"/><stop offset=".5" stop-color="#7C9EFF"/><stop offset="1" stop-color="#C49BFF"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#8271FF" stop-opacity=".19"/><stop offset="1" stop-color="#8271FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#8195D2" stroke-opacity=".065"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="428" rx="24"/></clipPath>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+      .mono { font-family: 'Cascadia Code', Consolas, 'Liberation Mono', monospace; }
+      .flow { stroke-dasharray: 7 15; animation: flow 4s linear infinite; }
+      .float { animation: float 7s ease-in-out infinite; }
+      .float-late { animation: float 7s ease-in-out -3.5s infinite; }
+      .pulse { animation: pulse 4s ease-in-out infinite; }
+      .orbit { transform-origin: 960px 211px; animation: orbit 42s linear infinite; }
+      .scan { animation: scan 9s ease-in-out infinite; }
+      @keyframes flow { to { stroke-dashoffset: -88; } }
+      @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+      @keyframes pulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+      @keyframes orbit { to { transform: rotate(360deg); } }
+      @keyframes scan { 0%, 100% { transform: translateX(0); opacity: .2; } 50% { transform: translateX(900px); opacity: .65; } }
+      @media (prefers-reduced-motion: reduce) { .flow, .float, .float-late, .pulse, .orbit, .scan { animation: none; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="430" fill="url(#background)"/>
+    <rect width="1200" height="430" fill="url(#grid)"/>
+    <ellipse cx="959" cy="210" rx="350" ry="310" fill="url(#halo)"/>
+    <path d="M0 1H1200" stroke="url(#accent)" stroke-width="3"/>
+    <path class="scan" d="M80 1H280" stroke="#C4FFEF" stroke-width="3"/>
+
+    <g class="mono" font-size="11" letter-spacing="2">
+      <circle cx="53" cy="43" r="4" fill="#5EF5D0"/>
+      <text x="68" y="47" fill="#A7B4D6">ONYXFUZZX / PERSONAL WORKSPACE</text>
+      <text x="1149" y="47" fill="#8190B6" text-anchor="end">MUMBAI, IN</text>
+    </g>
+    <path d="M48 67H1152" stroke="#28314B"/>
+
+    <text x="48" y="116" fill="#5EF5D0" font-size="12" letter-spacing="3" class="mono">DATA ANALYST + BUILDER</text>
+    <text x="44" y="190" fill="#F2F5FF" font-size="68" font-weight="800" letter-spacing="-3">ZAID SHAIKH</text>
+    <text x="48" y="232" fill="#BFCAE7" font-size="22">Turning data into tools that work.</text>
+    <text x="48" y="270" fill="#8292B8" font-size="15">Data Analyst Intern @ Houzeo</text>
+    <text x="48" y="294" fill="#8292B8" font-size="15">M.Sc. Artificial Intelligence &amp; Business Analytics</text>
+
+    <g class="mono" font-size="11" letter-spacing="1">
+      <rect x="48" y="326" width="140" height="32" rx="8" fill="#5EF5D0" fill-opacity=".07" stroke="#5EF5D0" stroke-opacity=".3"/>
+      <text x="118" y="346" fill="#5EF5D0" text-anchor="middle">DATA ANALYTICS</text>
+      <rect x="198" y="326" width="112" height="32" rx="8" fill="#91A6FF" fill-opacity=".07" stroke="#91A6FF" stroke-opacity=".3"/>
+      <text x="254" y="346" fill="#AAB9FF" text-anchor="middle">AI AGENTS</text>
+      <rect x="320" y="326" width="125" height="32" rx="8" fill="#C49BFF" fill-opacity=".07" stroke="#C49BFF" stroke-opacity=".3"/>
+      <text x="382.5" y="346" fill="#C49BFF" text-anchor="middle">FULL STACK</text>
+    </g>
+
+    <g stroke="#9D8AFF" stroke-opacity=".13">
+      <circle cx="960" cy="211" r="113"/>
+      <circle cx="960" cy="211" r="143" stroke-dasharray="3 10"/>
+    </g>
+    <g class="orbit">
+      <circle cx="960" cy="68" r="4" fill="#C49BFF"/>
+      <circle cx="960" cy="354" r="3" fill="#5EF5D0"/>
+    </g>
+
+    <path d="M803 140H842Q860 140 860 158V195H895" stroke="#5EF5D0" stroke-opacity=".22"/>
+    <path d="M803 140H842Q860 140 860 158V195H895" class="flow" stroke="#5EF5D0" stroke-opacity=".7"/>
+    <path d="M1025 211H1090V300H1044" stroke="#C49BFF" stroke-opacity=".22"/>
+    <path d="M1025 211H1090V300H1044" class="flow" stroke="#C49BFF" stroke-opacity=".7"/>
+    <path d="M896 227H850V300H803" stroke="#91A6FF" stroke-opacity=".22"/>
+    <path d="M896 227H850V300H803" class="flow" stroke="#91A6FF" stroke-opacity=".7"/>
+
+    <g class="float">
+      <rect x="681" y="99" width="151" height="88" rx="12" fill="#101B2A" stroke="#5EF5D0" stroke-opacity=".4"/>
+      <text x="698" y="125" fill="#5EF5D0" font-size="10" letter-spacing="2" class="mono">01 / DATA</text>
+      <text x="698" y="151" fill="#DFE9FF" font-size="15" font-weight="600">Extract. Verify.</text>
+      <path d="M699 166H714M720 166H749M755 166H793" stroke="#5EF5D0" stroke-opacity=".4" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <rect x="895" y="174" width="131" height="74" rx="18" fill="#191B38" stroke="url(#accent)"/>
+    <rect class="pulse" x="889" y="168" width="143" height="86" rx="24" stroke="#A295FF" stroke-opacity=".25"/>
+    <text x="960" y="204" fill="#F2F5FF" font-size="22" font-weight="700" text-anchor="middle">&lt; / &gt;</text>
+    <text x="960" y="229" fill="#B6C3E6" font-size="10" letter-spacing="2" text-anchor="middle" class="mono">BUILD</text>
+
+    <g class="float-late">
+      <rect x="681" y="267" width="151" height="70" rx="12" fill="#121A30" stroke="#91A6FF" stroke-opacity=".4"/>
+      <text x="698" y="292" fill="#AAB9FF" font-size="10" letter-spacing="2" class="mono">02 / AGENTS</text>
+      <text x="698" y="316" fill="#DFE9FF" font-size="15" font-weight="600">Automate.</text>
+    </g>
+    <g class="float">
+      <rect x="958" y="279" width="173" height="70" rx="12" fill="#1A152F" stroke="#C49BFF" stroke-opacity=".4"/>
+      <text x="975" y="304" fill="#C49BFF" font-size="10" letter-spacing="2" class="mono">03 / SOFTWARE</text>
+      <text x="975" y="328" fill="#DFE9FF" font-size="15" font-weight="600">Ship useful tools.</text>
+    </g>
+
+    <path d="M48 383H1152" stroke="#28314B"/>
+    <text x="48" y="407" fill="#7686AC" font-size="10" letter-spacing="1.5" class="mono">PYTHON / ELASTICSEARCH / SQL / .NET / ANGULAR</text>
+    <text x="1152" y="407" fill="#A89ACD" font-size="10" text-anchor="end" letter-spacing="1.5" class="mono">IDEA → CODE → ITERATE</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="428" rx="24" stroke="#3D4568" stroke-opacity=".6"/>
+</svg>
