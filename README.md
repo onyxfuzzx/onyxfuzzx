@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zaiddddd-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/zaiddddd/)
 [![Email](https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaid83560@gmail.com)
-[![Projects](https://img.shields.io/badge/GitHub-Public_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onyxfuzzx?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Working_Notebook-155E75?style=for-the-badge)](https://onyxfuzzx.github.io/)
 
 **Data Analyst Intern @ Houzeo · M.Sc. AI & Business Analytics · Mumbai, India**
 
@@ -38,50 +38,44 @@ focus = {
 <tr>
 <td width="50%" valign="top">
 
-### 01 / [AgentCanvas](https://github.com/onyxfuzzx/AgentCanvas)
+### [Feature Store & Model Registry](https://github.com/onyxfuzzx/Feature_store)
 
-**One canvas for coding-agent work.**
+An ML platform with batch online feature retrieval, point-in-time training datasets, and scheduled materialization. The model registry links versions to the features they use and tracks drift by model version. Includes a Python SDK and CLI.
 
-A local visual workspace for agents, terminals, tasks, and notes. Brings Codex, Claude Code, and Antigravity together with isolated Git worktrees and change review before integration.
-
-`TypeScript` `React` `Rust` `Tauri`
-
-**Status:** Windows development preview for desktop and editor hosts.
+`Python` `FastAPI` `React` `PostgreSQL` `Redis`
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / [Feature Store & Model Registry](https://github.com/onyxfuzzx/Feature_store)
+### [AgentCanvas](https://github.com/onyxfuzzx/AgentCanvas)
 
-**From feature definitions to model lineage.**
+A local workspace for Codex, Claude Code, and Antigravity with terminals, task tracking, shared notes, and isolated Git worktrees. Review diffs before accepting changes.
 
-A full-stack ML platform with online/offline feature storage, model versioning, metrics, scheduled materialization, role-based access, and audit logs. Includes a Python SDK and CLI.
+`TypeScript` `React` `Rust` `Tauri`
 
-`Python` `FastAPI` `React` `PostgreSQL` `Supabase`
+[Windows x64 development preview](https://github.com/onyxfuzzx/AgentCanvas/releases/tag/v0.1.0-preview.1) for desktop, VS Code, and Antigravity.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 / [The AI Chronicle](https://github.com/onyxfuzzx/AI-News-Analyzer)
+### [Attendance Buddy](https://github.com/onyxfuzzx/attendance-buddy)
 
-**An article URL becomes structured insights.**
+A self-hostable attendance app rebuilt from QR Watchman. Employees check in via workplace QR codes with GPS verification. Admins schedule shifts, review corrections, and export records.
 
-Summarizes news, analyzes sentiment, assesses reliability using web search, and finds related coverage. Runs article analysis and a LangChain search agent in parallel.
+`TypeScript` `React` `Express` `Supabase` `PostgreSQL`
 
-`Python` `Flask` `Groq` `LangChain` `BeautifulSoup`
+[Try the public demo with sample data](https://onyxfuzzx.github.io/attendance-buddy/demo/).
 
 </td>
 <td width="50%" valign="top">
 
-### 04 / [Customer Churn Prediction](https://github.com/onyxfuzzx/customer-churn-prediction)
+### [Prompt Enhancer](https://github.com/onyxfuzzx/prompt-enhancer-extension)
 
-**A complete path from analysis to prediction.**
+Chrome and Firefox extensions that turn rough drafts into structured prompts in ChatGPT, Claude, and Gemini. They use recent conversation context and can connect to a hosted provider or a local OpenAI-compatible endpoint.
 
-Telecom churn analysis, feature engineering, and a Flask prediction interface. Combines XGBoost and Gradient Boosting, compares balancing strategies, and shares preprocessing between training and inference.
-
-`Python` `Scikit-learn` `XGBoost` `Pandas` `Flask`
+`JavaScript` `WebExtensions` `Manifest V3`
 
 </td>
 </tr>
@@ -91,8 +85,10 @@ Telecom churn analysis, feature engineering, and a Flask prediction interface. C
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [Working Notebook](https://onyxfuzzx.github.io/) · [Source](https://github.com/onyxfuzzx/onyxfuzzx.github.io) | Personal portfolio with interactive workflow diagrams, project case studies, and a downloadable résumé. | React · TypeScript · Vite · GitHub Pages |
+| [The AI Chronicle](https://github.com/onyxfuzzx/AI-News-Analyzer) | Summarizes news articles, analyzes sentiment, and uses web search to find related coverage for a model-generated reliability assessment. | Python · Flask · Groq · LangChain |
+| [Customer Churn Prediction](https://github.com/onyxfuzzx/customer-churn-prediction) | Trains a telecom churn ensemble, compares class-balancing strategies, and reuses preprocessing in a Flask prediction app. | Python · Scikit-learn · XGBoost · Flask |
 | [QR Event Ticket Manager](https://github.com/onyxfuzzx/QR-Event-Ticket-Manager) | Event registration, encrypted QR tickets, role-based administration, and live check-in dashboards. | Angular · .NET 8 · SQL Server · SignalR |
-| [QR Watchman Attendance System](https://github.com/onyxfuzzx/QR-Watchman-Attendance-System) | QR attendance with geofence validation, face capture, shifts, correction requests, and an admin portal. | Angular 17 · .NET 8 · SQL Server |
 | [FightFitAI](https://github.com/onyxfuzzx/FightFitAI) | Boxing training plans, webcam-based pose feedback, and ML-based fight predictions. | Python · Flask · OpenCV · MediaPipe |
 
 **[Explore all my public repositories →](https://github.com/onyxfuzzx?tab=repositories)**
@@ -134,13 +130,13 @@ Telecom churn analysis, feature engineering, and a Flask prediction interface. C
 
 | Area | Technologies |
 | --- | --- |
-| **Languages** | Python, C#, TypeScript, JavaScript, SQL, HTML, CSS |
+| **Languages** | Python, C#, TypeScript, JavaScript, Rust, SQL, HTML, CSS |
 | **Data & analytics** | Elasticsearch, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
 | **AI & automation** | LLM applications, AI agents, LangChain, agentic workflows, MCP, prompt engineering |
 | **AI development & design tools** | Codex, Claude Code, Claude Cowork, Claude Design, Google Stitch |
-| **Web & backend** | .NET 8, ASP.NET Core, Angular 17, Flask, REST APIs, webhooks, SignalR |
-| **Databases** | Elasticsearch, Microsoft SQL Server, MySQL, PostgreSQL, SQLite |
-| **Cloud & delivery** | Microsoft Azure, AWS, Cloudflare, Git, GitHub, CI/CD |
+| **Web, desktop & APIs** | React, Angular 17, Tauri, FastAPI, Flask, Express, ASP.NET Core, SignalR, REST APIs, webhooks |
+| **Databases & storage** | Elasticsearch, Microsoft SQL Server, PostgreSQL, Supabase, Redis, MySQL, SQLite |
+| **Cloud & delivery** | Microsoft Azure, AWS, Cloudflare, GitHub Pages, Git, CI/CD |
 
 ## Education
 
