@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zaiddddd-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/zaiddddd/)
 [![Email](https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaid83560@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Working_Notebook-155E75?style=for-the-badge)](https://onyxfuzzx.github.io/)
 
 **Data Analyst Intern @ Houzeo · M.Sc. AI & Business Analytics · Mumbai, India**
 
@@ -85,7 +84,7 @@ Paste an article URL to get a summary, sentiment analysis, and related coverage.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Working Notebook](https://onyxfuzzx.github.io/) | Personal portfolio with interactive workflow diagrams, project case studies, and a downloadable résumé. | React · TypeScript · Vite · GitHub Pages |
+| [Prompt Enhancer](https://github.com/onyxfuzzx/prompt-enhancer-extension) | Turns rough drafts into structured prompts in ChatGPT, Claude, and Gemini using conversation context. Supports hosted providers and local models. | JavaScript · Chrome and Firefox WebExtensions · Manifest V3 |
 | [Customer Churn Prediction](https://github.com/onyxfuzzx/customer-churn-prediction) | Trains a telecom churn ensemble, compares class-balancing strategies, and reuses preprocessing in a Flask prediction app. | Python · Scikit-learn · XGBoost · Flask |
 | [QR Event Ticket Manager](https://github.com/onyxfuzzx/QR-Event-Ticket-Manager) | Event registration, encrypted QR tickets, role-based administration, and live check-in dashboards. | Angular · .NET 8 · SQL Server · SignalR |
 | [FightFitAI](https://github.com/onyxfuzzx/FightFitAI) | Boxing training plans, webcam-based pose feedback, and ML-based fight predictions. | Python · Flask · OpenCV · MediaPipe |
