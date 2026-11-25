@@ -71,11 +71,11 @@ A self-hostable attendance app rebuilt from QR Watchman. Employees check in via 
 </td>
 <td width="50%" valign="top">
 
-### [Prompt Enhancer](https://github.com/onyxfuzzx/prompt-enhancer-extension)
+### [The AI Chronicle](https://github.com/onyxfuzzx/AI-News-Analyzer)
 
-Chrome and Firefox extensions that turn rough drafts into structured prompts in ChatGPT, Claude, and Gemini. They use recent conversation context and can connect to a hosted provider or a local OpenAI-compatible endpoint.
+Paste an article URL to get a summary, sentiment analysis, and related coverage. A LangChain search agent compares sources to generate a reliability assessment.
 
-`JavaScript` `WebExtensions` `Manifest V3`
+`Python` `Flask` `Groq` `LangChain` `BeautifulSoup`
 
 </td>
 </tr>
@@ -85,8 +85,7 @@ Chrome and Firefox extensions that turn rough drafts into structured prompts in 
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Working Notebook](https://onyxfuzzx.github.io/) · [Source](https://github.com/onyxfuzzx/onyxfuzzx.github.io) | Personal portfolio with interactive workflow diagrams, project case studies, and a downloadable résumé. | React · TypeScript · Vite · GitHub Pages |
-| [The AI Chronicle](https://github.com/onyxfuzzx/AI-News-Analyzer) | Summarizes news articles, analyzes sentiment, and uses web search to find related coverage for a model-generated reliability assessment. | Python · Flask · Groq · LangChain |
+| [Working Notebook](https://onyxfuzzx.github.io/) | Personal portfolio with interactive workflow diagrams, project case studies, and a downloadable résumé. | React · TypeScript · Vite · GitHub Pages |
 | [Customer Churn Prediction](https://github.com/onyxfuzzx/customer-churn-prediction) | Trains a telecom churn ensemble, compares class-balancing strategies, and reuses preprocessing in a Flask prediction app. | Python · Scikit-learn · XGBoost · Flask |
 | [QR Event Ticket Manager](https://github.com/onyxfuzzx/QR-Event-Ticket-Manager) | Event registration, encrypted QR tickets, role-based administration, and live check-in dashboards. | Angular · .NET 8 · SQL Server · SignalR |
 | [FightFitAI](https://github.com/onyxfuzzx/FightFitAI) | Boxing training plans, webcam-based pose feedback, and ML-based fight predictions. | Python · Flask · OpenCV · MediaPipe |
